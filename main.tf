@@ -11,8 +11,7 @@ terraform {
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA5WLTS34OWYRS2QP4"
-  secret_key = "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"
+  access_key = "
 }
 
 resource "aws_instance" "phlimsy" {
